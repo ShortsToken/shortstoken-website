@@ -15,7 +15,7 @@ Welcome to the **ShortsToken** official repository! ShortsToken is a fun, commun
 -**Community & Marketing:** 20%
 -**Staking & Rewards:** 10%
 
-## Get Involved1.
+## Get Involved
 **Join our Community:**   
    - Twitter: [@ShortsToken](https://twitter.com/ShortsToken)
    - Telegram: [ShortsToken Community](https://t.me/shortstoken)
