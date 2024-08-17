@@ -2,7 +2,8 @@
 
 Welcome to the **ShortsToken** official repository! ShortsToken is a fun, community-driven meme cryptocurrency designed to capture the spirit of the internet while offering a chance for everyone to catch the wind of profits! 💨💸
 
-## About ShortsToken**ShortsToken** was created to embrace the unpredictable, ever-changing world of crypto with a light-hearted approach. Inspired by the idea of never getting caught with your pants down, ShortsToken is here to bring humor and profit to the crypto space.
+## About ShortsToken
+**ShortsToken** was created to embrace the unpredictable, ever-changing world of crypto with a light-hearted approach. Inspired by the idea of never getting caught with your pants down, ShortsToken is here to bring humor and profit to the crypto space.
 
 ### Key Features-**Deflationary Mechanism:** A portion of every transaction is burned to increase scarcity and value.
 -**Community-Focused:** A token for the people, by the people. Our vibrant community drives the growth and direction of ShortsToken.
