@@ -8,10 +8,10 @@ Welcome to the **ShortsToken** official repository! ShortsToken is a fun, commun
 -**Community-Focused:** A token for the people, by the people. Our vibrant community drives the growth and direction of ShortsToken.
 
 ## Tokenomics-**Total Supply:** 1 Trillion SHORTS
--**Initial Burn:** 50% of the total supply
--**Liquidity Pool:** 20%
--**Community & Marketing:** 20%
--**Staking & Rewards:** 10%
+-**Initial Burn:** ¬50% of the total supply
+-**Liquidity Pool:** ¬20%
+-**Community & Marketing:** ¬20%
+-**Staking & Rewards:** ¬10%
 
 ## Get Involved
 **Join our Community:**   
